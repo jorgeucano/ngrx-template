@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 
 import {
-	MatButtonModule
+	MatCardModule
 } from '@angular/material';
 
 const MAT_MODULES = [
-	MatButtonModule
+	MatCardModule
 ];
 
 @NgModule({

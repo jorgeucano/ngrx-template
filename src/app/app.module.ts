@@ -11,6 +11,7 @@ import { AppComponent } from './app.component';
 const APP_IMPORTS = [
   BrowserModule,
   AppRoutingModule,
+  MaterialModule,
   BrowserAnimationsModule
 ];
 
